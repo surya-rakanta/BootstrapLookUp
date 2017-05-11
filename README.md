@@ -17,7 +17,7 @@ The programmer only responsible for performing the codes inside the server side 
 
 User can hover to the table and perform selection by clicking on to the table, and it will show the alert box:
 
-![alt lk03](https://github.com/surya-rakanta/BootstrapLookUp/blob/master/Images/lk03.png)
+![alt lk04](https://github.com/surya-rakanta/BootstrapLookUp/blob/master/Images/lk04.png)
 
 This sample program is created using ASP.NET, so if you are interested to see how this page in action, there are several pre-requisite as follows:
 
