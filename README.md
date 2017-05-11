@@ -25,3 +25,11 @@ This sample program is created using ASP.NET, so if you are interested to see ho
 2. Windows Server 2003 or higher with Framework 4
 
 Sample data is included in the "data" folder on the source package.
+
+Before running this sample, you have to edit the web.config file first to refer to your properly set connection string.
+
+Then, in your properly installed SQL Server 2005 or higher, create the database named LeaveV2 and its associated tables by running the script.sql in the root folder of this repository.
+
+Perform setup and installation of the content in this project to your web server (I'm using IIS 8.0), by setting it to Framework 4.
+
+At this stage, the look up example only use tEmployee table. You can ignore other tables that will be used in the next stage of this open source project, perhaps with another name.
